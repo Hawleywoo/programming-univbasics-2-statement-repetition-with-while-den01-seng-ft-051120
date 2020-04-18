@@ -5,3 +5,4 @@ while count > 0 do
 end
 
 puts "Happy New Year!"
+puts 3.class
